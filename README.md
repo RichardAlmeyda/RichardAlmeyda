@@ -8,18 +8,17 @@
 ## 👨‍💻 About Me — Cybersecurity Specialist
 
 - 🎯 **Certified eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester)** from [INE](https://ine.com)
-- ✍️ Technical Writer on [Medium](https://medium.com/@RichardAlmeyda)
+- ✍️ Blog on Medium [Medium](https://medium.com/@RichardAlmeyda)
 
-- 🔐 Passionate about red teaming, exploit development, and breaking things securely.
 
 ---
 
-## ✍️ My Focus Areas
+## ✅ Core Experience  
 
-- ✅ Web Application/Network Penetration Testing
-- ✅ OSINT & Reconnaissance
-- ✅ Vulnerability Assessment & Exploitation
-- ✅ CTFs & Practical Labs
+-  Web Application/Network Penetration Testing
+-  OSINT & Reconnaissance
+-  Vulnerability Assessment & Exploitation
+-  CTFs & Practical Labs
 
 ---
 
