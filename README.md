@@ -1,6 +1,4 @@
-[![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-blue.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=cybersecurity)
-[![Python](https://img.shields.io/badge/Code-Python-yellow.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Medium](https://img.shields.io/badge/Blog-Medium-black.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@RichardAlmeyda)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Explore-blue.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=cybersecurity)
 
 
 
