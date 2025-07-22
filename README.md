@@ -19,7 +19,7 @@
 
 ---
 
-- 💬 Open to colab offers and etc on [Telegram](https://t.me/RichardAlmeyda)
+- 💬 Open for colab offers and etc on [Telegram](https://t.me/RichardAlmeyda)
 
 
 
