@@ -1,11 +1,15 @@
 <div align="center">
 
-[![eCPPTv3 Certified](https://img.shields.io/badge/Security-eCPPTv3-blue.svg?style=for-the-badge&logo=security&logoColor=white)](https://ine.com)
-[![Python](https://img.shields.io/badge/Code-Python-yellow.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Medium](https://img.shields.io/badge/Blog-Medium-black.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@RichardAlmeyda)
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RichardAlmeyda)
+  <a href="https://medium.com/@RichardAlmeyda" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Medium-black.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Python-yellow.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <img src="https://img.shields.io/badge/Field-Cybersecurity-blue.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity">
 
 </div>
+
 ## 👨‍💻 About Me — Cybersecurity Specialist
 
 - 🎯 **Certified eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester)** from [INE](https://ine.com)
