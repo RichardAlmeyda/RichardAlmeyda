@@ -1,5 +1,5 @@
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Explore-blue.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=cybersecurity)
-
+[![Cybersec](https://img.shields.io/badge/Cybersec-🔐-blueviolet.svg?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.google.com/search?q=cybersecurity)
+[![Pentester](https://img.shields.io/badge/Pentester-💻-black.svg?style=for-the-badge&logo=exploitdb&logoColor=white)](https://www.google.com/search?q=pentesting)
 
 
 ## 👨‍💻 About Me — Cybersecurity Specialist
