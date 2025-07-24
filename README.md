@@ -7,18 +7,7 @@
 - 🎯 **Certified eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester)** from [INE](https://ine.com)
 - ✍️ Blog on Medium [Medium](https://medium.com/@RichardAlmeyda)
 
-
 ---
-
-## ✅ Core Experience  
--  Web Application/Network Penetration Testing
--  Scripting
--  OSINT & Reconnaissance
--  Vulnerability Assessment & Exploitation
--  CTFs & Practical Labs
-
----
-
 - 💬 Open for colab offers and etc on [Telegram](https://t.me/RichardAlmeyda)
 
 
