@@ -7,6 +7,9 @@
 - 🎯 **Certified eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester)** from [INE](https://ine.com)
 - ✍️ Blog on Medium [Medium](https://medium.com/@RichardAlmeyda)
 
+## Main projects
+https://t.me/servepayoff
+
 
 
 
