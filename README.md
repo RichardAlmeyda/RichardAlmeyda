@@ -8,8 +8,9 @@
 - ✍️ Blog on Medium [Medium](https://medium.com/@RichardAlmeyda)
 
 ## Main projects
-https://t.me/servepayoff
-https://vulndump.pythonanywhere.com/
+-  https://t.me/servepayoff
+
+- https://vulndump.pythonanywhere.com/
 
 
 
