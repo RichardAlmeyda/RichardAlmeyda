@@ -8,8 +8,8 @@
 - ✍️ Blog on Medium [Medium](https://medium.com/@RichardAlmeyda)
 
 ## Main projects
--  https://t.me/ServePayNews
-
+### 🔗 ServePay
+[![Open ServePay Bot](https://img.shields.io/badge/Open-@servpay_bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/servpay_bot)
 - https://vulndump.pythonanywhere.com/
 
 ## 📫 Contact Me
